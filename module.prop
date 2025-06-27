@@ -1,0 +1,7 @@
+id=disable-animation
+name=Disable Animation
+description=Sets all animation scales to 0.0 for instant response
+author=YasserYvY
+version=v1.0.0
+versionCode=1
+repository=https://github.com/YasserYvY/disable-animation
